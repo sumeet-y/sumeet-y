@@ -3,7 +3,7 @@
     <h1 align="center" margin-bottom="20px">Hi 👋, I'm Sumeet Yadav</h1>
     <h3 align="center" margin-bottom="20px">A passionate frontend developer from India</h3>
 </div><br/>
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/little-boy-working-on-computer-4619242-3821955.png?f=webp" alt=" coding image" align="right" width="350px" >
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/little-boy-working-on-computer-4619242-3821955.png?f=webp" alt=" coding image" align="right" width="300px" >
 
 
 
