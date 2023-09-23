@@ -1,10 +1,12 @@
-![MasterHead]( https://1.bp.blogspot.com/-7rEgVqxtC-U/WS2jxCPfIzI/AAAAAAAAAJM/bMBKeJ1JtUchZ8ginmy2B1VhkJnn_X4WACLcB/s1600/banner-web-development.png)
+![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 <div margib="10px">
     <h1 align="center" margin-bottom="20px">Hi 👋, I'm Sumeet Yadav</h1>
     <h3 align="center" margin-bottom="20px">A passionate frontend developer from India</h3>
-</div>
-<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/160865305/original/5051d5b50165ae7db71b27b72324770e9f7a3e0e/build-a-python-project-for-you.jpg" alt=" coding image" align="right" width="350px" >
-<div margin="10px">
+</div><br/>
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/little-boy-working-on-computer-4619242-3821955.png?f=webp" alt=" coding image" align="right" width="350px" >
+
+
+
     - 🔭 I’m currently working on **Front-end Development**
 
     - 🌱 I’m currently learning **Javascript,React**
@@ -14,7 +16,7 @@
     - 💬 Ask me about **Front-end development**
     
     - 📫 How to reach me **sumitpyadav74@gmail.com**
-</div>
+
 
 
 <h3 align="left" margin="10px">Connect with me:</h3>
