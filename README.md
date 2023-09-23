@@ -1,7 +1,7 @@
 [![MasterHead]( https://1.bp.blogspot.com/-7rEgVqxtC-U/WS2jxCPfIzI/AAAAAAAAAJM/bMBKeJ1JtUchZ8ginmy2B1VhkJnn_X4WACLcB/s1600/banner-web-development.png)]
 <h1 align="center">Hi 👋, I'm Sumeet Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/160865305/original/5051d5b50165ae7db71b27b72324770e9f7a3e0e/build-a-python-project-for-you.jpg" alt=" coding image" align:"right" width:"400px">
+<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/160865305/original/5051d5b50165ae7db71b27b72324770e9f7a3e0e/build-a-python-project-for-you.jpg" alt=" coding image" align:"right" width="400px" height="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeet-y&label=Profile%20views&color=0e75b6&style=flat" alt="sumeet-y" /> </p>
 
