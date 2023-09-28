@@ -6,16 +6,15 @@
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/little-boy-working-on-computer-4619242-3821955.png?f=webp" alt=" coding image" align="right" width="300px" >
 
 
+  <ul>
+    <li>🌱 I’m currently learning Web Development</li>
+    <li>👯 I’m looking to collaborate on Open Source Projects</li>
+    <li>🤔 I’m looking for help with my projects.</li>
+    <li>💬 Ask me about anything</li>
+    <li>😄 Pronouns: He/Him</li>
+    <li>⚡ Fun Fact: I love to solve rubik's cube in my free time</li>
+  </ul>
 
-    - 🔭 I’m currently working on **Front-end Development**
-
-    - 🌱 I’m currently learning **Javascript,React**
-    
-    - 👯 I’m looking to collaborate on **Open Source Project**
-    
-    - 💬 Ask me about **Front-end development**
-    
-    - 📫 How to reach me **sumitpyadav74@gmail.com**
 
 
 
